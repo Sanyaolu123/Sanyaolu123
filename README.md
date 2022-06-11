@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <h1 align="center">Hi there 👋🏾, I'm Abideen Sanyaolu</h1>
   <p>I am a Software Developer focused on (Node/Express, Angular, Php, TypeScript)</p>
 
