@@ -1,4 +1,4 @@
-### Hi there 👋
+<center><h2>Hi there 👋</h2></center>
 
 <!--
 **Sanyaolu123/Sanyaolu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
