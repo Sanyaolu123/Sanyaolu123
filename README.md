@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi there 👋🏾, I'm Abideen Sanyaolu</h1>
-
+  <p>I am a Software Developer focused on (Node/Express, Angular, Php, TypeScript)</p>
 
 <!--
 **Sanyaolu123/Sanyaolu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
