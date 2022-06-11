@@ -1,4 +1,4 @@
-<center><h2>Hi there 👋</h2></center>
+<center><h2>Hi there 👋</h2>, I'm Abideen Sanyaolu</center>
 
 <!--
 **Sanyaolu123/Sanyaolu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<hr>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Sanyaolu123&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyaolu123&langs_count=5&theme=tokyonight)]()
