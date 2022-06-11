@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[I'm an inline-style link](https://www.google.com)
+  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Sanyaolu123&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyaolu123&langs_count=5&theme=tokyonight)]()
 
