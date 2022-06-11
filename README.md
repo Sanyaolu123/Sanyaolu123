@@ -1,4 +1,4 @@
-<center><h2 style="text-align:center">Hi there 👋🏾, I'm Abideen Sanyaolu</h2></center>
+<h2 style="text-align:center">Hi there 👋🏾, I'm Abideen Sanyaolu</h2>
 
 <!--
 **Sanyaolu123/Sanyaolu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
