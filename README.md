@@ -5,20 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanyaolu123" alt="Sanyaolu123" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/SanyaoluAbideen" target="blank"><img src="https://img.shields.io/twitter/follow/SanyaoluAbideen?logo=twitter&style=for-the-badge" alt="sheetalistic" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SanyaoluAbideen" target="blank"><img src="https://img.shields.io/twitter/follow/SanyaoluAbideen?logo=twitter&style=for-the-badge" alt="Sanyaolu123" /></a> </p>
 <img align="right" width= "400" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 
 - 📝 I regularly write articles on [https://medium.com/@abideensanyaolu03](https://medium.com/@abideensanyaolu03)
 
-- 📫 How to reach me **sheetalistic@gmail.com**
+- 📫 How to reach me **abideensanyaolu03@gmail.com**
 
-- ⚡ Fun fact **I am literature geek!**
+- ⚡ Fun fact **I am a badass gamer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sheetaldsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sheetaldsingh" height="30" width="40" /></a>
-<a href="https://twitter.com/sheetalistic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheetalistic" height="30" width="40" /></a>
+<a href="https://twitter.com/SanyaoluAbideen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SanyaoluAbideen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sheetaldsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheetaldsingh" height="30" width="40" /></a>
 <a href="https://medium.com/@sheetaldsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sheetaldsingh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/singh_sheetal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="singh_sheetal" height="30" width="40" /></a>
