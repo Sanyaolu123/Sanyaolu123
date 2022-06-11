@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[I'm an inline-style link](https://www.google.com)
+<a href='https://wa.me/2349025098774?text=Hello%20Abideen' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/Whatsapp-100000?style=for-the-badge&logo=Whatsapp&logoColor=FFFFFF&labelColor=00FF04&color=00FF0D'/></a>
   
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Sanyaolu123&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyaolu123&langs_count=5&theme=tokyonight)]()
