@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/SanyaoluAbideen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SanyaoluAbideen" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sanyaolu-abideen-826691228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanyaolu123" height="30" width="40" /></a>
-<a href="https://medium.com/@abideensanyaolu03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abideensanyaolu03" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abideen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abideen" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abideensanyaolu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abideensanyaolu1" height="30" width="40" /></a>
+<a href="https://twitter.com/SanyaoluAbideen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SanyaoluAbideen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanyaolu-abideen-826691228/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanyaolu123" height="30" width="40" /></a>
+<a href="https://medium.com/@abideensanyaolu03" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abideensanyaolu03" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abideen" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abideen" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abideensanyaolu1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abideensanyaolu1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
