@@ -9,7 +9,7 @@
 <img align="right" width= "400" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 
-- 📝 I regularly write articles on [https://medium.com/@sheetaldsingh](https://medium.com/@sheetaldsingh)
+- 📝 I regularly write articles on [https://medium.com/@abideensanyaolu03](https://medium.com/@abideensanyaolu03)
 
 - 📫 How to reach me **sheetalistic@gmail.com**
 
