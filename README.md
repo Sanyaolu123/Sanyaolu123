@@ -1,5 +1,5 @@
 <div class="text-align:center">
-<h2 style="text-align:center">Hi there 👋🏾, I'm Abideen Sanyaolu</h2>
+<h1 align="center">Hi there 👋🏾, I'm Abideen Sanyaolu</h1>
 
 <!--
 **Sanyaolu123/Sanyaolu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
