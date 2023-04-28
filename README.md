@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Abideen Sanyaolu</h1>
-<h3 align="center">Hello People 😃.</h3>
+<h3 align="center">Hello World 😃.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanyaolu123&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Sanyaolu123" /> </p>
 
