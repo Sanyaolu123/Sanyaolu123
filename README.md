@@ -1,33 +1,150 @@
-<h1 align="center">Hi 👋🏾, I'm Abideen Sanyaolu</h1>
-<h3 align="center">Hello World 😃.</h3>
+[![Actions Status](https://github.com/Sanyaolu123/Sanyaolu123/workflows/wakatime-stats/badge.svg)](https://github.com/Sanyaolu123/Sanyaolu123/actions)
+[![Actions Status](https://github.com/Sanyaolu123/Sanyaolu123/workflows/update-gh-activity/badge.svg)](https://github.com/Sanyaolu123/Sanyaolu123/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=Sanyaolu123.Sanyaolu123)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanyaolu123&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Sanyaolu123" /> </p>
+<!-- <p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p> -->
 
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=Sanyaolu123&theme=tokyonight" alt="Sanyaolu123" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/SanyaoluAbideen" target="_blank"><img src="https://img.shields.io/twitter/follow/SanyaoluAbideen?logo=twitter&style=for-the-badge" alt="Sanyaolu123" /></a> </p>
-<img align="right" width= "400" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
-
-
-- 📝 I regularly write articles on [https://medium.com/@abideensanyaolu03](https://medium.com/@abideensanyaolu03)
-
-- 📫 How to reach me **abideensanyaolu03@gmail.com**
-
-- ⚡ Fun fact **I am a badass gamer!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/SanyaoluAbideen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SanyaoluAbideen" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sanyaolu-abideen-826691228/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanyaolu123" height="30" width="40" /></a>
-<a href="https://medium.com/@abideensanyaolu03" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abideensanyaolu03" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abideen" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abideen" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abideensanyaolu1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abideensanyaolu1" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://socialify.git.ci/Sanyaolu123/Sanyaolu123/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/nodejs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/angular/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3schools.com/typescript/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/basics" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/php/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="Php" width="40" height="40"/> </a> </p>
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/sanyaolu-abideen">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<br>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanyaolu123&show_icons=true&locale=en&theme=blueberry" alt="Sanyaolu123" /></p>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Sanyaolu123&theme=onedark&column=-1" />
+</p>
 
-<p><img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=Sanyaolu123&theme=blueberry" ></p>
-<p><img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyaolu123&theme=blueberry"></p>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+```yaml
+name: Erwin Lejeune
+located_in: Abu Dhabi, UAE
+from: Nantes (France)
+job: Senior Robotics Software Engineer
+education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
+company: Technology Innovation Institute
+past experiences:
+  - ["Robotics Software Engineer", "UAV Swarms", "Technology Innovation Institute", "UAE", "2022-2023"]
+  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
+  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
+  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
+  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
+  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
+  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
+
+fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
+                      "Localization", "Sensor Fusion", "Embedded Systems"]
+technical_background: ["Motion Planning", "Optimization", 
+                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
+currently_learning: ["Web3", "React", "Vue"]
+will_learn: ["Blockchain (backend)"]
+hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+```
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+</p>
+
+
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#360](https://github.com/d60/twikit/issues/360#issuecomment-2979219796) in [d60/twikit](https://github.com/d60/twikit)
+2. 🔒 Closed issue [#360](https://github.com/d60/twikit/issues/360) in [d60/twikit](https://github.com/d60/twikit)
+3. 💪 Opened PR [#260](https://github.com/DLu/ros_map/pull/260) in [DLu/ros_map](https://github.com/DLu/ros_map)
+4. ❗ Opened issue [#360](https://github.com/d60/twikit/issues/360) in [d60/twikit](https://github.com/d60/twikit)
+5. 💪 Opened PR [#246](https://github.com/DLu/ros_map/pull/246) in [DLu/ros_map](https://github.com/DLu/ros_map)
+<!--END_SECTION:activity-->
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C050%20hrs%2048%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.2%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 336.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 572 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 82 Public Repositories 
+ > 
+> 🔑 22 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                397 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+🌆 Daytime                2686 commits        █████████░░░░░░░░░░░░░░░░   36.50 % 
+🌃 Evening                3230 commits        ███████████░░░░░░░░░░░░░░   43.90 % 
+🌙 Night                  1045 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+Python                   7 hrs 4 mins        ████████████░░░░░░░░░░░░░   48.91 % 
+YAML                     1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+C++                      1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Bash                     1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Docker                   1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+
+🐱‍💻 Projects: 
+rfseeker_analysis        9 hrs 43 mins       █████████████████░░░░░░░░   67.21 % 
+arrc_rf_seeker_flight_sys2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+rf_angle_extractor       1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+arrc_interfaces          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+seeker_analysis          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+```
+
+
+ Last Updated on 24/06/2025 12:55:56 UTC
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+
+```text
+From: 16 July 2020 - To: 23 June 2025
+
+Total Time: 2,050 hrs 48 mins
+
+C++                        713 hrs 50 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.81 %
+Go                         313 hrs 18 mins ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.28 %
+Python                     308 hrs 28 mins ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.04 %
+C                          145 hrs 15 mins ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.08 %
+Bash                       97 hrs 1 min    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.73 %
+YAML                       95 hrs 43 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.67 %
+```
+
+<!--END_SECTION:waka-simple-->
+
+Liked it ?
+
+*ERC-20 / EVM: **0x07ed706146545d01fa66a3c08ebca8c93a0089e5***
+
+*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
