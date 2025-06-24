@@ -6,7 +6,9 @@
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p> -->
 
-<p align="center">
+<h3>Socials</h3>
+
+<p align="left">
   <img src="https://socialify.git.ci/Sanyaolu123/Sanyaolu123/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
 </p>
 
@@ -28,7 +30,7 @@
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanyaolu123&theme=github-dark-dimmed&custom_title=Sanyaolu123%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```yaml
-name: Erwin Lejeune
+name: Abideen 
 located_in: Abu Dhabi, UAE
 from: Nantes (France)
 job: Senior Robotics Software Engineer
